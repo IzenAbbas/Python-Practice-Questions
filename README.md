@@ -1,3 +1,6 @@
 # Python-Practice-Questions
-# Here, practice questions especially for Python Programming langiage starting are going to be discused
-# Questions along with their solutions are categorized by topics
+A collection of Python programming practice problems
+
+Questions are organized by topic for easy navigation
+
+Includes clean and beginner-friendly solutions
